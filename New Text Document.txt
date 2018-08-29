@@ -1,0 +1,3 @@
+	
+foe github pages building app
+ng build --prod --output-path docs --base-href "/Your-app-name/"
